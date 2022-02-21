@@ -10,6 +10,6 @@ func Sum(x,y int) int{
 	return x+y
 }
 
-func SayHy() string{
-	return "Hy"
+func SayHy(name string) string{
+	return "Hy "+name
 }
