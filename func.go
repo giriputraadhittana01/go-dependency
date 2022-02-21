@@ -1,19 +1,26 @@
 package godependency
 
-//  Version 3
-
+//  Version 1.0.0
 func SayHello(name string) string{
 	return "Hello "+name
 }
 
-func Sum(x,y int) int{
-	return x+y
-}
+//  Version 1.0.1
+// func SayNo() string{
+// 	return "No"
+// }
 
-func SayHy(name string) string{
-	return "Hy "+name
-}
+//  Version 2.0.0
+// func Sum(x,y int) int{
+// 	return x+y
+// }
 
-func Hola(name string) string{
-	return "Hola "+name
-}
+//  Version 3.0.0
+// func SayHy(name string) string{
+// 	return "Hy "+name
+// }
+
+//  Version 4.0.0
+// func Hola(name string) string{
+// 	return "Hola "+name
+// }

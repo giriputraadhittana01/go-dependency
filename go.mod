@@ -1,3 +1,3 @@
-module github.com/giriputraadhittana01/go-dependency/v3
+module github.com/giriputraadhittana01/go-dependency
 
 go 1.16
