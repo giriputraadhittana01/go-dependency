@@ -9,3 +9,7 @@ func SayHello(name string) string{
 func Sum(x,y int) int{
 	return x+y
 }
+
+func SayHy() string{
+	return "Hy"
+}
